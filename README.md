@@ -13,6 +13,9 @@ The Pubmed affiliation section only contains first author affiliation for the ar
 
 - More information to be added!
 Most recent date of co-authored article.
+<br>
 Nationality
+<br>
 University
+<br>
 ...
